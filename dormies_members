@@ -1,0 +1,62 @@
+[
+  {
+    "keyName":"jomar",
+    "fullName": "Jomar Naval",
+    "nickname": "joms",
+    "major": "BSIT-BA"
+  },
+  {
+    "keyName":"carlo",
+    "fullName": "Carlo Bautista",
+    "nickname": "locar",
+    "major": "BSIT-BA"
+  },
+  {
+    "keyName":"ezekiel",
+    "fullName": "Ezekiel Reyes",
+    "nickname": "tiks",
+    "major": "BSIT-NT"
+  },
+  {
+    "keyName":"james",
+    "fullName": "James Steven Erilla",
+    "nickname": "jam es",
+    "major": ""
+  },
+  {
+    "keyName":"johncart",
+    "fullName": "John Cart Steven Yunso",
+    "nickname": "jangkart",
+    "major": ""
+  },
+  {
+    "keyName":"johnpaul",
+    "fullName": "John Paul Rosales",
+    "nickname": "gads",
+    "major": "BSIT-NT"
+  },
+  {
+    "keyName":"giane",
+    "fullName": "Giane Ogana",
+    "nickname": "giane",
+    "major": "BSIT-NT"
+  },
+  {
+    "keyName":"moneco",
+    "fullName": "John Monico Macatangay",
+    "nickname": "monekoe",
+    "major": "BSIT-NT"
+  },
+  {
+    "keyName":"anthony",
+    "fullName": "Mark Anthony Permito",
+    "nickname": "perms",
+    "major": ""
+  },
+  {
+    "keyName":"mark",
+    "fullName": "Mark Anthony Cabogsan",
+    "nickname": "mangangawil",
+    "major": ""
+  }
+]
